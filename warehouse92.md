@@ -1,5 +1,5 @@
 ---
-title: Location: Warehouse 92
+title: 'Location: Warehouse 92'
 layout: default
 heading: Warehouse 92
 ---
