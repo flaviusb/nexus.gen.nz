@@ -1,0 +1,145 @@
+/* Tell the browser to render HTML 5 elements as block */
+header, footer, aside, nav, article {
+  display: block;
+}
+
+html {
+  font-family: Inconsolata, monaco, courier;
+}
+
+body {
+    font-family: Georgia;
+    color: #333;
+}
+
+div.header { float: right; } 
+img.logo {
+  margin-top: 60px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+span.withrpad {
+  margin-right: 30px;
+  padding: 5px;
+}
+.cf {
+  border-radius-bottomleft: 5px;
+  border-radius-bottomright: 5px;
+  -moz-border-radius-bottomleft: 5px;
+  -moz-border-radius-bottomright: 5px;
+  -webkit-border-bottom-left-radius: 5px;
+  -webkit-border-bottom-right-radius: 5px;
+  background-color: blue;
+  position: absolute;
+  width: 210px;
+  z-index: 100;
+  border: 1px transparent;
+  text-align: left;
+  padding: 10px;
+  margin-left: -1px;
+  margin-top: -1px;
+  font-size: 14px;
+}
+.mf {
+  border-radius-bottomleft: 5px;
+  border-radius-bottomright: 5px;
+  -moz-border-radius-bottomleft: 5px;
+  -moz-border-radius-bottomright: 5px;
+  -webkit-border-bottom-left-radius: 5px;
+  -webkit-border-bottom-right-radius: 5px;
+  background-color: blue;
+  position: absolute;
+  width: 170px;
+  z-index: 100;
+  border: 1px transparent;
+  text-align: left;
+  padding: 10px;
+  margin-left: -1px;
+  margin-top: -1px;
+  font-size: 14px;
+}
+.cfl {
+  margin: 0 0 5px;
+  padding: 5px;
+}
+.cft {
+  /*margin: 5px 0 5px;*/
+  /*padding: 5px;*/
+}
+.cfi input[type="text"], .cfi input[type="password"] {
+  border-radius: 4px;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  border: 1px solid #ddeef6;
+  font-size: 13px;
+  margin: 0 0 5px;
+  padding: 5px;
+  width: 203px;
+}
+.hid { display: none; }
+.blk { display: block; }
+div.columns { display: inline; width: 95% }
+div.column { float: left; width: auto; margin: 3em; }
+div.gold-box { clear: both; width: 100%; }
+div.centered { margin-left: auto; margin-right: auto; display: block; }
+.wri { float: left; }
+.sep {clear: both; }
+.right-align { float: right; width: auto; }
+.login { float: right; width: auto; }
+.generated-text { margin-top: 10px; padding: 50px; margin-left: 180px; margin-right: 180px; display: block; }
+.charsheet { margin-top: 10px; padding: 50px; margin-left: 80px; margin-right: 80px; display: block; }
+
+a img {
+  border: 0;
+}
+
+nav {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  background: blue;
+}
+
+nav ul {  
+  margin: 0 auto;  
+  width: 1040px;  
+  list-style: none;  
+}
+
+nav ul li {
+  float: left;
+}
+nav ul li a, nav ul li div {
+  display: block;
+  margin-right: 40px;
+  width: 140px;
+  font-size: 14px;
+  line-height: 48px;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+}
+
+nav ul li.img a {
+  margin: 0 auto;
+  width: 30px;
+}
+
+nav ul li.img a img {
+  vertical-align: middle;
+}
+
+nav ul li a:hover {
+  color: #fff;
+}
+
+nav ul li.selected a {
+  color: #fff;
+}
+nav ul li.subscribe a {
+  margin-left: 22px;
+  padding-left: 33px;
+  text-align: left;
+  background: url("rss.png") left center no-repeat;
+}
