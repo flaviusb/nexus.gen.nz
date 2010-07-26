@@ -1,5 +1,5 @@
 ---
-title: Location: The Nexus
+title: 'Location: The Nexus'
 heading: Locations
 layout: default
 ---
