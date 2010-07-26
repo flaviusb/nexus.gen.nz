@@ -1,0 +1,35 @@
+---
+title: About Nexus
+layout: default
+---
+About Nexus: Auckland Awakenings
+================================
+
+Nexus: Auckland Awakenings is a live action role playing game, held weekly in Auckland, New Zealand. It uses the New World of Darkness: Mage tabletop rule system.
+The setting is a grittier, darker Auckland, in the present day. The game is highly cabal focussed, and there is an element of Player vs Player conflict. 
+
+Who are we
+----------
+
+Patrick Cummuskey - ST: Pentacle
+
+Peter Cummuskey   - ST: Timori
+
+Jason Farley      - ST: Seers of the Throne
+
+Cameron McLean    - ST: Nefandi
+
+Justin Marsh      - ST: Metaplot
+
+
+Where is it held
+----------------
+
+See [here](http://nexus.gen.nz/vc/gamelocations) for game venue and date.
+
+How can I join
+--------------
+
+Email [nexusaucklandawakening@gmail.com](mailto:nexusaucklandawakening@gmail.com) to show interest.
+
+
