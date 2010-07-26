@@ -1542,7 +1542,7 @@ events: [
   <h2> {{ ep.name }} </h2>
   <br />
   <ul>
-  {% for ev in e.events %}
+  {% for ev in ep.events %}
     <li> {{ ev.year }} <br /> {% for evt in ev.events %} {{ evt.date }} - <em>{{ evt.event }}</em><br /> {% endfor %}</li>
   {% endfor %}
   </ul>
