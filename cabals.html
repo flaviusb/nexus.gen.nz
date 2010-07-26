@@ -34,7 +34,7 @@ heading: Cabals
 <h1>Cabals</h1>
 <br/>
 <ul>
-{% for cabal in cabals %}
+{% for cabal in page.cabals %}
   <li class="{{cabal.faction}}"> <em>{{cabal.name}}</em>: {{cabal.description}}</li>
 {% endfor %}
 </ul>
