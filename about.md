@@ -1,9 +1,8 @@
 ---
 title: About Nexus
 layout: default
+heading: 'About Nexus: Auckland Awakenings'
 ---
-About Nexus: Auckland Awakenings
-================================
 
 Nexus: Auckland Awakenings is a live action role playing game, held weekly in Auckland, New Zealand. It uses the New World of Darkness: Mage tabletop rule system.
 The setting is a grittier, darker Auckland, in the present day. The game is highly cabal focussed, and there is an element of Player vs Player conflict. 
