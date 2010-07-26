@@ -1,3 +1,9 @@
+---
+title: Rules
+layout: default
+heading: Rules
+---
+
 ## Draw System ##
 
 The draw system which will be used for all tests in Nexus: Auckland Awakening will be 40 Draw Pool.

@@ -25,7 +25,7 @@ Justin Marsh      - ST: Metaplot
 Where is it held
 ----------------
 
-See [here](http://nexus.gen.nz/vc/gamelocations) for game venue and date.
+See [here](http://nexus.gen.nz/gamelocations) for game venue and date.
 
 How can I join
 --------------

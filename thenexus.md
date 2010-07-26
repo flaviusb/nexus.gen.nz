@@ -1,3 +1,8 @@
+---
+title: Location: The Nexus
+heading: Locations
+layout: default
+---
 Location: The Nexus
 ===================
 

@@ -1,7 +1,10 @@
 ---
 title: 'Location: Warehouse 92'
 layout: default
-heading: Warehouse 92
+heading: Locations
 ---
+Location: Warehouse 92
+======================
+
 Situated on St Georges Bay Rd at the lower end of Parnell, this is a converted warehouse that now is one top clubs in Auckland. It is owned by Liam, of the Emily Jefferson Foundation pylon.
 
